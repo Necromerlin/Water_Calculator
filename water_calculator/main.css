@@ -1,0 +1,15 @@
+body{
+  background-color: #f2f2f2;
+  font-family: "Helvetica Neue";
+  font-size: 14 px;
+}
+.centered{
+  text-align: center;
+}
+.lefted{
+  text-align: left;
+}
+.my_input{
+    width: 70px;
+    text-align: right;
+   }
